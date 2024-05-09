@@ -1,0 +1,54 @@
+.bgcolor {
+    background-color: rgb(22, 47, 51);
+   display:flex;
+   justify-content:center;
+   align-items: center;
+    
+  }
+
+
+.card {
+    background-image: linear-gradient(
+      to right,
+      rgb(219, 206, 129),
+      rgb(145, 143, 143));
+     margin-top: 50px;
+     margin-bottom: 20px;
+     border-radius: 10px;
+     box-shadow: 0 0 0.5rem;
+     width:350px;
+    
+   
+   
+}
+img{
+    width: 179px;
+    height:169px;
+    margin-top: 5px;
+    padding: 15px;
+}
+h1{
+    font-family: Tahoma;
+   margin:20px;
+   margin-bottom: 50px;
+}
+.card-header{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+}
+.card-body{
+ 
+    text-align: center;
+}
+.info{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: black;
+    font-weight: 100;
+    margin-top: 10px;
+  
+   
+}
+
